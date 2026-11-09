@@ -1,0 +1,16 @@
+version = "1.0.0+0"
+name = "HelloWorldCxxWrap_jll"
+uuid = "8ca2db9a-d220-554f-8ede-5d0553cfcb43"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "~1.10, ~1.11, ~1.12, ~1.13, ~1.14, ~1.15"
+JLLWrappers = "1.7.0"
+Artifacts = "< 0.0.1, 1"
+libcxxwrap_julia_jll = "0.14.12"

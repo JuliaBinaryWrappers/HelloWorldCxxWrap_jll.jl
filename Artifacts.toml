@@ -1,0 +1,747 @@
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "e9ba1b63ef0bf63474c8c80a7d5c4a741774f576"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "1e7108a9d9e2be901200f3279057f6f66ae7ad72bb77e314c29f2cd108925eb4"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "a4d9b2cae2f83194fcc840c82531d1a6774d09a3"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "f24694b40ac1299d83e738ff1de1f2824d49a5b4ce1b7ebb06de876b82895bee"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "9b291ce9009ae2ecca181876b70429741017da3c"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "d638be4b89acb5d2f7771e49826ae47dae8545d25afe7e766d8d6de5dd31e44b"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "c5c4728e447683e741ebf1bf27c08098d7d095a0"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "ffe7950a36d46c97278adf5d00badd8375716f7806a679351f118492f782606a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "430af1681e07fec93443dac00f7637b999d20390"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "12d6c5a172744a251d54fdfe7db821a51abe045478d6595c9573853a765f678a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "65bb9d258fe7c06c870b414c36f7ca2c03a3af01"
+julia_version = "1.15.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "ab8da8bb854ff1e232f3231c151cb73285642a1365f084a9df0c552fcf19f30f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-apple-darwin-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "631b90aa43578df020e2904a791b95aa337b4c10"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "747e8ab57e466e55ddccd598202d940f0af3f3d32c887cf832dc35694243a4c1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a0ad8d32cfde407134ce216b1c3c9e8f8ff957a"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "91987dcc39b427e229808f9d891913ef0e9b9606d3bf471c7d0ef1f2ea14ace3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0df6df54c42571d12022bf7e636466edf6bf1da8"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "156daf6763769f479b73ea06a98476aa78e44fffe8d069714c1ad4532afda061"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc9754e268a6efcc15b1ab87908c1c60a33876a8"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "8fc8f8cf82e9d81fe115d02653192126f1f25c5c6f02aae722a75ad34bf462ff"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d20d00443a94eebe09cf229814ae3dd7b3948122"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "15a3e2e71f4ed0819f1050019f53bba48398fc20c11f411d83fe7b1a54911e38"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ada5e13929049725e74c3cc3c8127c1562b90f2a"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "495334173a59584dec15925c6005612790e8057652388e6094c0197cd1f25f28"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ced832d247b67e49b7884f845bdf750c5a7376f4"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "40fd79f9c5fd950bf0558ff61b877df7a04dec632dba601e8b70bdbdaf4dc8c8"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf5faab961206098fd825162ea076feb6752f35e"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "880043aafd19ad2490bb673ce2220184d594dc781caed7a12d3aa13d4985f464"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "701aa0907d1e2247bbef738dcc8db48bb2fefa5f"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "9d6a54baa5ff9939f2bcdb24ccd4d8da302bf42085812c4568bd23c54d723c8c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40e44119208dd70c67b0a55c2791f9b3a882b263"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "3b5d81a9ae5fbb66bf1bbcca44ad82f50285c82fcf3915438624bdc5e5dc6ab4"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8f80cf12d7157679f6702ad1a53568b0181aa52b"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "0080e8d7e1466116397241493bd876e9eae7830fa7ec0b9b2ed05a54ac2839a5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c372a66c253105e8909004c62a60c00a2aa8571"
+julia_version = "1.15.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "973856072694ce2f4e574c67862dc2d16c9edf936668faa5e69d0e22e295ebaf"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-linux-musl-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "31f4cbff55aec3318b9c3bf0bff3899c6931529c"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "4ea8d3e68f071bc02fdf29f2da77b5f26c51620184da8e3c8596d7917810edf3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "0443c54a2d8254e8b9b0147bce87bd6676b79207"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "46cd238d4f48148b6b6f0941cc1bf7215e3590b6f0ba4629ac0bab16f5c2d387"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "5a28f3eb0e6d045b9519dd7bc5fbee736cf85a01"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "09501e60e92029b8aef5bc5c22bc458111c137f7ffbbdea4300d00c4e38a006a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "aarch64"
+git-tree-sha1 = "195c26070bba480aa0e4a14421121af2c99d54ee"
+julia_version = "1.15.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "b9dab1e54e4b52ad8e98a088e327166de6204462dd952afe09b38194eb06776a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.aarch64-unknown-freebsd-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9952f80591fecd89ffc25a66788174e10fcc093e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "a539e4a70a70202f8f5e65cd8db23ee3d338c1ad27e9cb753cc2f4e3defb3296"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "938ec8003cb944e91a734769bc9552abaa555494"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "dc4ce2d7c3f4c11784344ed04212ff42fc3225e03de2dc4c570affc5a839c4fc"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff8fca4cff2cece66f7a0b587c17f1d624e6baa2"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "1fe7d3570ea5ff29d1467f2fd16cda3a658fc8f98d1ea808370d83d9e5f711c6"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0bde7e8893b68d827de854682cce2efffa8d18da"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "f21b47a57013918eeba041099e2127d11782fff3230cd0451db56f9965a71382"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "993e4b2f4228ab7bf51d4fbf1f3eeabc9a1b58b3"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "08cb67554989be0263271a53f6cc1b84b7c4adcd2bc0ae07f73e6cad28aefcf6"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8b4c8810960b37d066fad7a527d7250198e0908"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "aa3bbd58c5acc366b0793d290b1b070440a20ec30a1cbae2049e29b54b4cc3d9"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7aa0ac895d43ba1c493d9658c248da2f64d2062b"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "dda00bdc833eb7cc33ed6e594e7ea029fa25d84b573028ecc16e50845f3653ed"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "425b93b7ea690dc271e13a5b660c63768ba99a84"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "3bb469c378028bb122827e6b01f65f09ae0692b29f2a5f0a6213d6f80a9ff59f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b98ee998cf6d8755d0d9d1505c163d744eeeeaf6"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "fc44ca033ae1a65c78111e2887e7bfb982aae8128b9de7da19651a26ec911ade"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "464909f6fb659a5ce89763e497a3d5933559e3fa"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "8cbe0e48b38fddebdb91ce2d567e891895aa51c82b0fc9cd0aa67b8ad48771f2"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "817036a430e4a00430f0dbfe27b04c3fc7ca437c"
+julia_version = "1.14.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "06da28f9eda2fdaf7d5556a59d9df713de6109e753727ee75ca855db029704b3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "817036a430e4a00430f0dbfe27b04c3fc7ca437c"
+julia_version = "1.15.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "06da28f9eda2fdaf7d5556a59d9df713de6109e753727ee75ca855db029704b3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.i686-w64-mingw32-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eae5d6d1cc61cd5a1aa246f563def4e510ed41bd"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "f4582b7b0d7e4d2e23fefc6d78dafb96883b5a2c6bc8fe877ebb8ff8c8fc8940"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ed4becf9451795c2fe1ef9d2c84a9805ce32a12"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "6dc96a26a00d900aaf4ad6865ddfc2955e248f685053dc146c2af5add76923bd"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ab322e4efcd6fe27eb9f490515ba79c92dfec128"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "0799553fa9c6f8e5998a34a7d2b841e3b17cdd8fe7979794f040f9c24dafbbc2"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea23fe8741a1a8f0bc1ccb4e3b8b9ec57c08a02e"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "17cbcf5e1c61bd90adf2cba2c380d219f900e5423d6ac8b8aa28d2be775ad28d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "29818da7e004da397c64d5453e75c0ae53b575a1"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "e91919fc69b53142e4484721a9cbf1f14339600a933793287fd6d78b7bd27019"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84cd47b73385cd2b764b775f30e0a4ab4684a5f8"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "06825e025a3802c826dc128ebcfee9bdfcfe53996963a02726bc736a8849d670"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "46922b77faa9c5336c915a245322e949536163ec"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "e1378201ae3d8052dd2d54b40cccf5dfa7f374d5896c98e56aea198c3fd6f5c7"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c539833173e1c5a62a497503c9086132fefbd95"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "715f629c532a8601887dd410570b87365e11c5f63f52633e4ecf3c4c1836ff81"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68a36c6db868866567b127278051eff3ebfb3706"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "1f72a172005fe1ce0d57fb96a6adee112defb3fe5adf717c523153ec0bd00877"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.riscv64-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "45f8164f1b4c6c742bbd12022a61e44d37d5cd9a"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "d3b587020ac9d61de44a2bd03acde995f6d620bf3ea11b14ab9b60fe1cafca98"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "ab5a3653a02224c3a30767e4946593920f13d87e"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "5a4643a9c142e2a1dbbf0ad1db57d6eb45b5bfd90d486b80066fd5ca00d68008"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "533023006fb391d7b15d76faa4120c7746aa2ab9"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "846684b02525c921097f8a19022fd8af6c034c9191707bfe2c3d44caea7e054a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "80e8e080ffd60b00d48a893e21dc4d5974409f8c"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "8929690c2c3abb265f7fbff3e3c32e98df0df6e8ce0024ee86e77702f236d38e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "f72f238c4811631bb16570a933ad705caedf23f5"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "1c8602395dfa8c4f015136ae92a70b4d304c55aade32062337df0ef95292bf55"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "e54d20e780cbd0a6673c98302b80844ac69f2d05"
+julia_version = "1.15.0"
+os = "macos"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "0b2129767884fb5c4cf2546dbe1e5b966f90f37dea31799655abb126475af72e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-apple-darwin-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "829881fb377ca40139f08ecf9bab2ad526e02e00"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "11add332106e3a65eaa63fd894b2300fa1e89023f88e9731016aaa5d58f8ff56"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c27b9ef11be6c85d6da1f42cd67e899a81e7c667"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "3c509dccb6ab9871f732297c6dc540e67badf11f248c7244684294cab88e7d36"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e7467006fe61897fbeacf0acdd279dcd82490bb"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "2fc7ef93102e7bc3650fac73b2c03aab512dac05df5e90413b69002bb36495ac"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d46325ecade330c191e020b8ca57bc38403e5d7"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "c8acc7c149369dbf9afd2c0fb249e9346049f0733a4cb59e7b7c9f48bb7537bb"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "017868b64b7a2b056fdff1c3ad6648e0ea1d8e78"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "7ca0db4c988d042af65777a3ec58fdd2d3cbfb3a4c5b04777989ee177edece9b"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8dd20ce89bc2adaaeb7dcc831b6942b9587a7881"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "de8ed63c6797db06fe82a5f31fc405aa4cfcabade826791ebde0bb05f79a6159"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12b32303225a0442b768fe59097990f82f0bcf3c"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "ec0a62accaa0fa6f9e379735317c0c1e2e81de70c9711bfa6482d786055831b0"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c3a0593f39697bd1e864ee18e3ca91450a9370a"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "54de988fe096f4e947bfc448e425a533319e5fe8ba3a43b8feb9790b46424670"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87574a5ac32af73dee239b6955af63757af00045"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "e70ac3fa5e79cab8b2bc37284e328677901d7cdb6d908832d914952bc383b39e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5164a5427b67f67ba0ae84e6f825a488ce989987"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "30435acf8f313028c1f22a89d0dc7aa488f81adc6dc85aa7b611d6919ebdcfca"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c57537d057b9c94a7a1fe564b59b6b71bc14a5e6"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "67ed4cf6cb6e57779be73d029ada7725d66ea9221515c36e1bb0249f7ccceab4"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb936eb1f2d9473f00fd12532626648655669381"
+julia_version = "1.15.0"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "b50cb17166f8d25134ab841dce164ea0b3c55653bbafeb00d5bdaaa87cafde50"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-linux-musl-cxx11-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "bbb8ce159a1dacfb238f02cad0a99e17c5c887fa"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "3b968dc9dfe022e288cbdb7fc169ba2c4c98376227fd942ccb226c43bc89b7b6"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "d4c64406901845481e3652eaa89c8538903fbfa9"
+julia_version = "1.11.1"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "ebbe115d6eb9d59d4c215dd9fec60b4085bab3d42c8c7c2f291968fc1c671445"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "e1cd8497baeda26bb63c12f029c8b970fe5200f5"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "687bf0f8e75574d8937e6a74b030adbe9cf996c37bc7ee2494135721f6c0254d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "1ee0880afa5d94c3ee3873656d8754d9855d0e6e"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "9b1e96336f2cb7ccf1417f7724f1ca782c8ea988e3f598f0f634533cf778254f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "637e535819cbcf4e5f701871c6f5e9b2465d04f0"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "81390fe795fdddaeb55acfa11bfdf26f1cbdbbf9f1516c7ff208e60baac5fca5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+git-tree-sha1 = "f3001e43ed57924146516f190db41534b2d83c29"
+julia_version = "1.15.0"
+os = "freebsd"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "e6f321dfbbd3e0aa27854e1527f22298de7cea135726e08645bced04188b591a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-unknown-freebsd-julia_version+1.15.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "61e243ee73443955591a9635356e4d388041ae3c"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "3d3673474ec804fa53fdf28acc03f3c74390bb4a6361b13ea815de7a7b69705c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba0a01d13a8eedfb4ad3fb991e8e5c2285ac02cc"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "4a5b59c8e80a3e79c682737def69d6ee0635581b46ad06376e84a035f4458ddd"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec90f1511500ae3d435cb5ae3f7614958f999577"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "78ee21b593b9728bd11a1c4de23728258e07d40c89140d719fa676e559ae9234"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0da4cc864cf5054890dacace0c2e01c23a290029"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "c5581cade071ffa08f5ef6f5b939b0eb125ec4dc8cb1dbc1782a07066db5f683"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69c1b8d92e9a2530d5795433208e16ea1fdd6d56"
+julia_version = "1.14.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "7c6f1f52eb4c753454bd7cce50e0272ee4801f62f95cd2fce626c5d1e706da9d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+[[HelloWorldCxxWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69c1b8d92e9a2530d5795433208e16ea1fdd6d56"
+julia_version = "1.15.0"
+os = "windows"
+
+    [[HelloWorldCxxWrap.download]]
+    sha256 = "7c6f1f52eb4c753454bd7cce50e0272ee4801f62f95cd2fce626c5d1e706da9d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldCxxWrap_jll.jl/releases/download/HelloWorldCxxWrap-v1.0.0+0/HelloWorldCxxWrap.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.15.0.tar.gz"
